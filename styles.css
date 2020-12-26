@@ -1,6 +1,8 @@
 .wrapper {
   display:flex;
+  justify-content:space-around;
 }
 .product_wrapper {
   border:1px dotted gray;
+  width:30%;
 }
