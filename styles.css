@@ -11,3 +11,6 @@
 .paddings {
   padding-left:20px;
 }
+.top-menu{
+  display:flex;
+}
