@@ -21,7 +21,13 @@ header{
 .paddings {
   padding-left:20px;
 }
+.padding-top{
+  padding-top:30px;
+}
 .top-menu{
   display:flex;
   justify-content:space-between;
+}
+ul{
+  list-style-type:none;
 }
